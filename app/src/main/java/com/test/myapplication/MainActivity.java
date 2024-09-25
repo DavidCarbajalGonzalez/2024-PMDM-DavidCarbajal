@@ -1,4 +1,4 @@
-package com.test.priemraapp;
+package com.test.myapplication;
 
 import android.os.Bundle;
 
@@ -10,7 +10,6 @@ import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
 
-    //hola
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

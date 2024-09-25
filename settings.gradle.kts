@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Priemra app"
+rootProject.name = "My Application"
 include(":app")

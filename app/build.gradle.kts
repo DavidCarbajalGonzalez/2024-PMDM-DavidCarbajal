@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.test.priemraapp"
+    namespace = "com.test.myapplication"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.test.priemraapp"
+        applicationId = "com.test.myapplication"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

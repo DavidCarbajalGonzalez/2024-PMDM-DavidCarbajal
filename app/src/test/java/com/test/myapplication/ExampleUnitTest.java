@@ -1,4 +1,4 @@
-package com.test.priemraapp;
+package com.test.myapplication;
 
 import org.junit.Test;
 
